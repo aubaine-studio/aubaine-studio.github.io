@@ -4,11 +4,11 @@
 <meta property="twitter:title" content={{ page.social_title | default : site.title | replace: '"', '' | prepend: '"' | append: '"' }}>
 <meta property="twitter:description" content={{ page.social_description | default : site.description | replace: '"', '' | prepend: '"' | append: '"' }}>
 <meta property="twitter:image" content="{{ page.image_to_share | default : site.image_to_share }}">
-<meta property="twitter:url" content="{{ (site.mitosis_website + page.page_url) | default : site.mitosis_website }}">
+<meta property="twitter:url" content="{{ (site.aubaine_studio_website + page.page_url) | default : site.aubaine_studio_website }}">
 
 <!-- Facebook, Pinterest, Google Plus and others make use of open graph metadata -->
-<meta property="og:url" content="{{ (site.mitosis_website + page.page_url) | default : site.mitosis_website }}" />
-<meta property="og:site_name" content="Mitosis" />
+<meta property="og:url" content="{{ (site.aubaine_studio_website + page.page_url) | default : site.aubaine_studio_website }}" />
+<meta property="og:site_name" content="Aubaine Studio" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content={{ page.social_title | default : site.title | replace: '"', '' | prepend: '"' | append: '"' }} />
 <meta property="og:description" content={{ page.social_description | default : site.description | replace: '"', '' | prepend: '"' | append: '"' }} />
@@ -25,15 +25,13 @@
     {
         "@context": "http://schema.org",
         "@type": "Organization",
-        "url": "{{ site.mitosis_website }}",
+        "url": "{{ site.aubaine_studio_website }}",
         "logo": "{{ site.image_to_share }}",
         "name": "{{ site.organization }}",
         "sameAs": [
-            "{{ site.social_links.github }}",
             "{{ site.social_links.facebook }}",
             "{{ site.social_links.twitter }}",
-            "{{ site.social_links.googl_plus }}",
-            "{{ site.social_links.youtube }}"
+            "{{ site.social_links.instagram }}"
         ]
     }
 </script>

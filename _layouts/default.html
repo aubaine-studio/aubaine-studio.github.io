@@ -1,10 +1,14 @@
+<!DOCTYPE HTML>
+<html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://opengraphprotocol.org/schema/
+			fb: https://www.facebook.com/2008/fbml">
+
 <!-- The site's metadata tags, importing css styles,... -->
 {% include top.html %}
 
 <body class="">
 
     <!-- The page's header -->
-    {% include header.html %} 
+    {% include header.html %}
 
     <!-- The page's content -->
     {{ content }}
@@ -18,12 +22,10 @@
             <i class="fa fa-chevron-up"></i>
         </a>
     </div>
-    
+
     <!-- Include google analytics when running into production. -->
     <!-- For this to run under Github set "safe:true" within _config.yml -->
-    {% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
+    {% if jekyll.environment == 'production' %} {% include analytics.html %} {% endif %}
 
     <!-- Include the javascript librairies -->
     {% include js-librairies.html %}

@@ -1,40 +1,35 @@
 safe: true
 
-title: Mitosis - Micro-services & Infrastructure generator
-email: mitosis@nirbyapp.com
+title: Aubaine Studio - Transformation digitale & Commnucation
+email: aubaine-studio@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  "Mitosis is a micro-services' infrastructure generator based on the best technologies :
-  Yeoman, Kubernetes/Docker Swarm, Traefik, Consul, etcd, Docker, Ansible, Jenkins, Kafka, Spark Streaming,...
-  With Mitosis you focus on what matters for your product and we take care of the reest." 
+  "Les meilleures technologies modernes au service de votre commerce. Boostez votre visibilité grâce à votre propre application mobile, 
+  site web mais également un accomagnement professionnel pour votre communication." 
 image_to_share: https://i-mitosis.github.io/assets/images/logo-mitosis-400x400.png
 
-organization : Nirby-Mitosis
+organization : Aubaine Studio
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: NirbyApp
-github_username:  NirbyApp
+twitter_username: AubaineToulouse
 
 # Mitosis on social medias
 social_links:
-  facebook: https://www.facebook.com/nirbyapp/
-  twitter: https://twitter.com/NirbyApp
-  github: https://github.com/NirbyApp/generator-mitosis
-  googl_plus: https://plus.google.com/109315561303094036500
-  youtube: https://www.youtube.com/channel/UCWZITtzFtv-hz_122Av6XAQ
+  facebook: https://www.facebook.com/aubainetoulousaine/
+  twitter: https://twitter.com/AubaineToulouse
+  instagram: https://www.instagram.com/aubaine_toulouse/
 
 
 
 # facebook information
-facebook_app_id: 1978319489046223
+facebook_app_id: 1474444815913185
 
 # Build settings
-google_analytics_id: UA-92680404-1
-google_site_verification: sIII5ZDXqWlrMwtfZym2jxmm8anSICOy8t7xqfAwTdQ
+google_analytics_id: UA-83975665-2
+google_site_verification: WIKSY2Wl0zz8RzDPN8tdIOB9MMZ_1fcoUu3wJhzAAl0
 
-github_repository: https://github.com/NirbyApp/generator-mitosis
 
-mitosis_website: https://i-mitosis.github.io
+aubaine_studio_website: https://aubaine-studio.github.io/
 
 timezone: Europe/Paris
 
