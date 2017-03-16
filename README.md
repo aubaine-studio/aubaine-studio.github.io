@@ -1,4 +1,4 @@
-Public website for Mitosis - generates https://i-mitosis.github.io
+Public website for Mitosis - generates https://aubaine-studio.github.io
 =======
 
 The website is rendered using Github pages and built using [Jekyll](https://jekyllrb.com/).
@@ -6,7 +6,7 @@ The website is rendered using Github pages and built using [Jekyll](https://jeky
 
 To run this locally :
 
-* [Fork this](https://github.com/i-mitosis/i-mitosis.github.io) repo and clone to your file system
+* [Fork this](https://github.com/aubaine-studio/aubaine-studio.github.io) repo and clone to your file system
 * [Install Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 * Run `bundle install`if you are running it for the first time in the cloned repo folder
 * Launch the ap by running :
