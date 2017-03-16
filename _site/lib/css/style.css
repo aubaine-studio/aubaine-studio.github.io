@@ -1008,7 +1008,7 @@ h1.home-page-title {
 font-family: 'Montserrat', sans-serif;
 font-style: normal;
 font-weight: 700;
-font-size: 145px;
+font-size: 80px;
 text-align: center;
 text-transform: uppercase;
 letter-spacing: -0.04em;
@@ -1026,21 +1026,21 @@ color: #111;
 
 @media only screen and (max-width: 1200px) {
   h1.home-page-title {
-    font-size: 105px;
+    font-size: 65px;
 	margin: -13px auto 3px auto;
   }
 }
 
 @media only screen and (max-width: 880px) {
   h1.home-page-title {
-    font-size: 85px;
+    font-size: 50px;
 	margin: -13px auto 6px auto;
   }
 }
 
 @media only screen and (max-width: 640px) {
   h1.home-page-title {
-    font-size: 65px;
+    font-size: 30px;
 	margin: -13px auto 4px auto;
   }
 }

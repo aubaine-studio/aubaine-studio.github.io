@@ -1,0 +1,85 @@
+<!-- contact page start -->
+<div class="section section-contact" id="contact">
+    <!-- container start -->
+    <div class="container">
+        <!-- row start -->
+        <div class="row alt">
+            <h2 class="section-title">
+                Contact
+            </h2>
+        </div>
+        <!-- row end -->
+        <!-- row start -->
+        <div class="row">
+            <div class="section-all-subtitle">
+                <span class="section-all-subtitle-first">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span><br>                Curabitur sed dictum tellus. Praesent ullamcorper fermentum egestas.
+            </div>
+        </div>
+        <!-- row end -->
+        <!-- row start -->
+        <div class="row">
+            <div class="footer-contact-block">
+                <!-- col left start -->
+                <div class="col-md-4">
+                    <!-- contact details start -->
+                    <span class="footer-contact-block-label">Address:</span> ex nihilo, Inc. Touchdown Dr 1176
+                    <!-- contact details end -->
+                </div>
+                <!-- col left end -->
+                <!-- divider start -->
+                <div class="divider-post-contact"></div>
+                <!-- divider end -->
+                <!-- col center start -->
+                <div class="col-md-4">
+                    <!-- contact details start -->
+                    <span class="footer-contact-block-label">Phone:</span> [00] 11 - 76, [01] 11 - 76
+                    <!-- contact details end -->
+                </div>
+                <!-- col center end -->
+                <!-- divider start -->
+                <div class="divider-post-contact"></div>
+                <!-- divider end -->
+                <!-- col right start -->
+                <div class="col-md-4">
+                    <!-- contact details start -->
+                    <span class="footer-contact-block-label">Email:</span> <a class="email" href="mailto:contact@yourdomainname.com">contact@yourdomainname.com</a>
+                    <!-- contact details end -->
+                </div>
+                <!-- col right end -->
+            </div>
+        </div>
+        <!-- row end -->
+        <!-- row start -->
+        <div class="row">
+            <!-- contact form start -->
+            <div id="contact-form">
+                <form action="contact.php" id="form" method="post" name="send">
+                    <div class="col-md-4">
+                        <input class="requiredField name" id="name" name="name" placeholder="Name" type="text">
+                    </div>
+                    <div class="col-md-4">
+                        <input class="requiredField email" id="email" name="email" placeholder="Email" type="text">
+                    </div>
+                    <div class="col-md-4">
+                        <input class="requiredField subject" id="subject" name="subject" placeholder="Subject" type="text">
+                    </div>
+                    <div class="make-space">
+                        <textarea class="requiredField message" id="message" name="message" placeholder="Message"></textarea>
+                    </div>
+                    <div>
+                        <button class="submit-button" id="submit" type="submit">Submit</button>
+                    </div>
+                </form>
+            </div>
+            <!-- contact form end -->
+
+            <!-- Home footer -->
+            {% include home_screen/home-footer.html %}
+
+
+        </div>
+        <!-- row end -->
+    </div>
+    <!-- container end -->
+</div>
+<!-- contact page end -->
