@@ -1,0 +1,37 @@
+.mitosis-header {
+
+    
+
+    .navbar {
+
+        height: $mitosis-header-height;
+        // background-color: rgba(44,62,80,.5);
+        border-bottom: 1px solid rgba(44,62,80,.2);
+
+
+        .menu-buttons-container {
+            position: absolute;
+            right: 0;
+            top: 0;
+            height: 100%;
+
+            .quickstart-container {
+                
+            }
+
+            .github-icon-container {
+                padding-top: 6px;
+                padding-bottom: 0;
+            }
+        }
+
+        .nav-link {
+            color: rgba(0,0,0,.7);
+
+            &:hover {
+                color: $primary-color;
+            }
+        }
+        
+    }
+}

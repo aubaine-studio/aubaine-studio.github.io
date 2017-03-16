@@ -1,0 +1,76 @@
+safe: true
+
+title: Mitosis - Micro-services & Infrastructure generator
+email: mitosis@nirbyapp.com
+description: > # this means to ignore newlines until "baseurl:"
+  "Mitosis is a micro-services' infrastructure generator based on the best technologies :
+  Yeoman, Kubernetes/Docker Swarm, Traefik, Consul, etcd, Docker, Ansible, Jenkins, Kafka, Spark Streaming,...
+  With Mitosis you focus on what matters for your product and we take care of the reest." 
+image_to_share: https://i-mitosis.github.io/assets/images/logo-mitosis-400x400.png
+
+organization : Nirby-Mitosis
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: NirbyApp
+github_username:  NirbyApp
+
+# Mitosis on social medias
+social_links:
+  facebook: https://www.facebook.com/nirbyapp/
+  twitter: https://twitter.com/NirbyApp
+  github: https://github.com/NirbyApp/generator-mitosis
+  googl_plus: https://plus.google.com/109315561303094036500
+  youtube: https://www.youtube.com/channel/UCWZITtzFtv-hz_122Av6XAQ
+
+
+
+# facebook information
+facebook_app_id: 1978319489046223
+
+# Build settings
+google_analytics_id: UA-92680404-1
+google_site_verification: sIII5ZDXqWlrMwtfZym2jxmm8anSICOy8t7xqfAwTdQ
+
+github_repository: https://github.com/NirbyApp/generator-mitosis
+
+mitosis_website: https://i-mitosis.github.io
+
+timezone: Europe/Paris
+
+markdown: kramdown
+#theme: minima
+
+highlighter: rouge
+
+gems:
+  - jekyll-feed
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+defaults:
+  -
+    scope:
+      path: "" # for the file on the root
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "_docs"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "pages"
+    values:
+      layout: "default"
