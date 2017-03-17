@@ -1,6 +1,10 @@
 .home-page {
     .value-proposition-container {
         margin-top: 45px;
+        @media screen and (max-width: 350px) {
+            margin-top: 60px;
+            padding: 0 5px;
+        }
         .value-propostion-p1 {
             margin-top: 15px;
             color: #fff;
@@ -10,6 +14,7 @@
             z-index: 1;
             font-size: 26px;
             line-height: 40px;
+            font-weight: 700;
         }
         .home-page-subtitle-carousel {
             .home-page-title {
@@ -19,7 +24,7 @@
         }
     }
     .call-to-action-container {
-        display: flex;
+        // display: flex;
         z-index: 1;
         position: relative;
         margin-top: 45px;
@@ -34,7 +39,6 @@
                 font-size: 20px;
                 font-weight: 700;
                 color: #fff;
-
                 i {
                     font-size: 15px;
                 }
@@ -47,7 +51,6 @@
             margin-left: auto;
             margin-right: 20px;
             background: #ff373d;
-
             &:hover {
                 background: #bd081c;
             }
@@ -56,10 +59,29 @@
             margin-right: auto;
             margin-left: 20px;
             border: 1px solid white;
-
             &:hover {
-                background: rgba(255,255,255,.2);
+                background: rgba(255, 255, 255, .2);
             }
         }
+        @media screen and (max-width: 640px) {
+            .ask-for-estimate-container {
+                margin-right: auto;
+            }
+            .learn-more-container {
+                margin-top: 25px;
+                margin-left: auto;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .aubaine-col-xs-12 {
+        width: 100%;
+        float: left;
+        position: relative;
+        min-height: 1px;
+        padding-left: 15px;
+        padding-right: 15px;
     }
 }

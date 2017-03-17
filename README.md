@@ -1,4 +1,4 @@
-Public website for Mitosis - generates https://aubaine-studio.github.io
+Public website for Aubaine Studio - generates https://aubaine-studio.github.io
 =======
 
 The website is rendered using Github pages and built using [Jekyll](https://jekyllrb.com/).
