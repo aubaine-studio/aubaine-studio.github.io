@@ -842,13 +842,13 @@ display: block;
 width: 80px;
 height: 5px;
 left: 0;
-top: 130px;
+top: 100px;
 background-color: #111;
 }
 
 @media only screen and (max-width: 1200px) {
   .section-title:before {
-    top: 116px;
+    top: 100px;
   }
 }
 
@@ -1086,7 +1086,7 @@ color: #111;
 
 .alt h2 {
 font-family: 'Montserrat', sans-serif;
-font-size: 105px;
+font-size: 70px;
 font-weight: 700;
 line-height: 1;
 letter-spacing: -0.04em;
@@ -1099,7 +1099,7 @@ padding: 0;
 
 @media only screen and (max-width: 1200px) {
   .alt h2 {
-    font-size: 85px;
+    font-size: 70px;
 	padding: 0 10px;
   }
 }
@@ -1174,20 +1174,20 @@ margin: 0 auto;
 /* page about */
 .section-about {
 background: #fff;
-padding: 134px 0 99px 0;
+padding: 100px 0 0 0;
 overflow: visible;
 z-index: 1;
 }
 
 @media only screen and (max-width: 880px) {
   .section-about {
-    padding: 105px 0 115px 0;
+    padding: 70px 0 0px 0;
   }
 }
 
 @media only screen and (max-width: 640px) {
   .section-about {
-    padding: 68px 0 75px 0;
+    padding: 50px 0 0 0;
   }
 }
 
@@ -1313,20 +1313,20 @@ letter-spacing: 0.05em;
 /* page services */
 .section-services {
 background: #fff;
-padding: 134px 0 147px 0;
+padding: 250px 0 0 0;
 overflow: hidden;
 z-index: 1;
 }
 
 @media only screen and (max-width: 880px) {
   .section-services {
-    padding: 105px 0 115px 0;
+    padding: 70px 0 0 0;
   }
 }
 
 @media only screen and (max-width: 640px) {
   .section-services {
-    padding: 68px 0 75px 0;
+    padding: 45px 0 0 0;
   }
 }
 
@@ -1693,20 +1693,20 @@ padding: 0 0 0 10px;
 /* page contact */
 .section-contact {
 background: #fff;
-padding: 134px 0 146px 0;
+padding: 100px 0 0 0;
 overflow: hidden;
 z-index: 1;
 }
 
 @media only screen and (max-width: 880px) {
   .section-contact {
-    padding: 105px 0 110px 0;
+    padding: 70px 0 0 0;
   }
 }
 
 @media only screen and (max-width: 640px) {
   .section-contact {
-    padding: 68px 0 146px 0;
+    padding: 50px 0 0 0;
   }
 }
 

@@ -1,12 +1,12 @@
 .home-page {
     .value-proposition-container {
-        margin-top: 45px;
+        margin-top: 30px;
         @media screen and (max-width: 350px) {
             margin-top: 60px;
             padding: 0 5px;
         }
         .value-propostion-p1 {
-            margin-top: 15px;
+            // margin-top: 15px;
             color: #fff;
             text-decoration: none;
             outline: none;
@@ -17,9 +17,11 @@
             font-weight: 700;
         }
         .home-page-subtitle-carousel {
+            margin-top: 15px;
             .home-page-title {
                 font-weight: 600;
                 font-size: 24px;
+                letter-spacing: 0.2em;
             }
         }
     }
