@@ -1,0 +1,25 @@
+{
+    "members": [{
+            "name": "Marie",
+            "position": "LA Communication Woman",
+            "description": "à compléter",
+            "image": "assets/img/team/marie.jpg",
+            "linkedin-link": ""
+        },
+        {
+            "name": "Haythem",
+            "position": "Notre Super Ingénieur",
+            "description": "Perfectionniste et original, startups et grands groupes comme Natixis et la Banque Central Européenne lui font confiance pour leurs sites et applications",
+             "image": "assets/img/team/haythem.png",
+            "linkedin-link": "https://www.linkedin.com/in/haythem-ouederni-16598977/"
+        },
+        {
+            "name": "Victoria",
+            "position": "Notre As du Marketing",
+            "description": "à compléter",
+             "image": "assets/img/team/victoria.jpg",
+            "linkedin-link": "https://www.linkedin.com/in/victoria-durand-cazelles-16abb060/"
+        }
+        
+    ]
+}

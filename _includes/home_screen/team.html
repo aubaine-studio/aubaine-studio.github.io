@@ -1,0 +1,53 @@
+<!-- row start -->
+<div class="row alt team-bloc-container">
+    <!-- col right start -->
+    <div class="col-md-12">
+
+        <!-- Title -->
+        <h3 class="">
+            Notre Équipe
+        </h3>
+        
+
+        <!-- The list of team members -->
+        <div
+            class="row team-members-row">
+
+            {% for member in site.data.team.members %}
+            <a
+                href="{{member.linkedin-link}}"
+                target="_blank">
+                <div
+                    class="col-md-4 team-member-container">
+                    <!-- Image -->
+                    <div
+                        class="image-container">
+                        <img src="{{member.image}}"/>
+                    </div>
+                    <!-- name -->
+                    <div
+                        class="memeber-name">
+                        <span>{{member.name}}</span>
+                    </div>
+                    <!-- position -->
+                    <div
+                        class="member-position">
+                        <span>{{member.position}}</span>
+                    </div>
+
+                    <!-- description -->
+                    <div
+                        class="member-description">
+                        <span>{{member.description}}</span>
+                    </div>
+
+                    
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+
+    </div>
+    <!-- col right end -->
+</div>
+<!-- row end -->
