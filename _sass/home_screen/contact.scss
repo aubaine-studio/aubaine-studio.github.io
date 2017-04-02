@@ -1,6 +1,19 @@
 .section-contact {
-    .contact-information, .contact-form-container {
+    .contact-information,
+    .contact-form-container {
         margin-left: 0 !important;
         margin-right: 0 !important;
+    }
+    .contact-form-container {
+        #contact-form {
+            .success {
+                padding: 0 0 30px 0 !important;
+                font-weight: 800 !important;
+            }
+            .contact-loader {
+                margin-top: 15px;
+                display:none;
+            }
+        }
     }
 }
