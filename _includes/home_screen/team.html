@@ -7,41 +7,38 @@
         <h3 class="">
             Notre Équipe
         </h3>
-        
+
 
         <!-- The list of team members -->
-        <div
-            class="row team-members-row">
+        <div class="row team-members-row">
 
             {% for member in site.data.team.members %}
-            <a
-                href="{{member.linkedin-link}}"
-                target="_blank">
-                <div
-                    class="col-md-4 team-member-container">
+            <a href="{{member.linkedin-link}}" target="_blank">
+                <div class="col-md-4 team-member-container">
                     <!-- Image -->
-                    <div
-                        class="image-container">
-                        <img src="{{member.image}}"/>
-                    </div>
-                    <!-- name -->
-                    <div
-                        class="memeber-name">
-                        <span>{{member.name}}</span>
-                    </div>
-                    <!-- position -->
-                    <div
-                        class="member-position">
-                        <span>{{member.position}}</span>
+                    <div class="image-container">
+                        <img src="{{member.image}}" />
                     </div>
 
-                    <!-- description -->
+                    <!-- Test container -->
                     <div
-                        class="member-description">
-                        <span>{{member.description}}</span>
+                        class="member-text-container">
+                        <!-- name -->
+                        <div class="memeber-name">
+                            <span>{{member.name}}</span>
+                        </div>
+                        <!-- position -->
+                        <div class="member-position">
+                            <span>{{member.position}}</span>
+                        </div>
+
+                        <!-- description -->
+                        <div class="member-description">
+                            <span>{{member.description}}</span>
+                        </div>
+
                     </div>
 
-                    
                 </div>
             </a>
             {% endfor %}

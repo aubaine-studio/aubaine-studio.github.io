@@ -14,16 +14,19 @@
                     border-radius: 50%;
                 }
             }
-            .memeber-name {
-                font-weight: 600;
-                font-size: 20px;
-            }
-            .member-position {
-                font-size: 18px;
-            }
-            .member-description {
-                padding-top: 10px;
-                color: black;
+            .member-text-container {
+                height: 130px;
+                .memeber-name {
+                    font-weight: 600;
+                    font-size: 20px;
+                }
+                .member-position {
+                    font-size: 18px;
+                }
+                .member-description {
+                    padding-top: 10px;
+                    color: black;
+                }
             }
         }
     }
