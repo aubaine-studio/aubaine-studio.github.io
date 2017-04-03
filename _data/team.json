@@ -1,10 +1,11 @@
 {
-    "members": [{
-            "name": "Marie",
-            "position": "LA Communication Woman",
+    "members": [
+        {
+            "name": "Victoria",
+            "position": "Notre As du Marketing",
             "description": "à compléter",
-            "image": "assets/img/team/marie.jpg",
-            "linkedin-link": ""
+             "image": "assets/img/team/victoria.jpg",
+            "linkedin-link": "https://www.linkedin.com/in/victoria-durand-cazelles-16abb060/"
         },
         {
             "name": "Haythem",
@@ -14,12 +15,33 @@
             "linkedin-link": "https://www.linkedin.com/in/haythem-ouederni-16598977/"
         },
         {
-            "name": "Victoria",
-            "position": "Notre As du Marketing",
+          "name": "Aymeric",
+            "position": "à compléter",
             "description": "à compléter",
-             "image": "assets/img/team/victoria.jpg",
-            "linkedin-link": "https://www.linkedin.com/in/victoria-durand-cazelles-16abb060/"
-        }
+            "image": "assets/img/team/aymeric.png",
+            "linkedin-link": ""
+        },
+         {
+          "name": "Chabane",
+            "position": "à compléter",
+            "description": "à compléter",
+            "image": "",
+            "linkedin-link": ""
+        },
+        {
+            "name": "Marie",
+            "position": "LA Communication Woman",
+            "description": "à compléter",
+            "image": "assets/img/team/marie.png",
+            "linkedin-link": ""
+        },
+        {
+          "name": "Fanny",
+            "position": "à compléter",
+            "description": "à compléter",
+            "image": "assets/img/team/fanny.png",
+            "linkedin-link": ""
+        },
         
     ]
 }
