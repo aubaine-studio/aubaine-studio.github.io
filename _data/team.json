@@ -3,15 +3,14 @@
         {
             "name": "Victoria",
             "position": "Présidente",
-            "description": "Audacieuse et dynamique, elle supervise l'équipe et gère la partie commerciale en s'occupant des relations partenaires. La gestion (administrative, commerciale et financière) n'a pas de secret pour elle ! Elle n'a pas peur de se lancer des challenges, elle est toujours en quête de nouveaux projets !
-",
+            "description": "Audacieuse et dynamique, elle supervise l'équipe et gère la partie commerciale en s'occupant des relations partenaires. La gestion n'a pas non plus de secret pour elle ! ",
              "image": "assets/img/team/victoria.jpg",
             "linkedin-link": "https://www.linkedin.com/in/victoria-durand-cazelles-16abb060/"
         },
         {
             "name": "Haythem",
             "position": "Pôle Développement",
-            "description": "Perfectionniste et original, il gère avec le développement d’application et également de site Web. Startups et grands groupes comme Natixis et la Banque Central Européenne lui ont déjà fait confiance pour leurs sites et applications.
+            "description": "Perfectionniste et original, il gère avec le développement d’application et de site Web. Startups et grands groupes comme Natixis et la Banque Central Européenne lui ont déjà fait confiance pour leurs projets.
 ",
              "image": "assets/img/team/haythem.png",
             "linkedin-link": "https://www.linkedin.com/in/haythem-ouederni-16598977/"
@@ -33,7 +32,7 @@
         {
             "name": "Marie",
             "position": "Pôle Communication",
-            "description": "Acharnée du travail et créative, Marie veille à créer plaquettes et visuels en tout genre, et gère également la création de newsletter. En équipe avec Fanny, elle participe également au Community Management !
+            "description": "Acharnée du travail et créative, Marie veille à créer plaquettes et visuels en tout genre ainsi que les newsletters. En équipe avec Fanny, elle participe également au Community Management !
 ",
             "image": "assets/img/team/marie.png",
             "linkedin-link": ""
@@ -41,7 +40,7 @@
         {
           "name": "Fanny",
             "position": "Pôle Communication",
-            "description": "Créative et dynamique, le Community Management c'est son dada ! Présente à chaque événement, elle ne manque pas de vous partager chaque actualité sur les réseaux sociaux et à créer des visuels pour vous régaler ! Parallèlement, elle collabore aussi avec Marie sur les créations de plaquettes, cartes de visites ...etc. 
+            "description": "Créative et dynamique, le Community Management c'est son dada ! Présente aux événements, elle partage vos actualités sur les réseaux sociaux. Parallèlement, elle collabore aussi avec Marie sur les visuels ! 
 ",
             "image": "assets/img/team/fanny.png",
             "linkedin-link": ""
