@@ -2,43 +2,47 @@
     "members": [
         {
             "name": "Victoria",
-            "position": "Notre As du Marketing",
-            "description": "à compléter",
+            "position": "Présidente",
+            "description": "Audacieuse et dynamique, elle supervise l'équipe et gère la partie commerciale en s'occupant des relations partenaires. La gestion (administrative, commerciale et financière) n'a pas de secret pour elle ! Elle n'a pas peur de se lancer des challenges, elle est toujours en quête de nouveaux projets !
+",
              "image": "assets/img/team/victoria.jpg",
             "linkedin-link": "https://www.linkedin.com/in/victoria-durand-cazelles-16abb060/"
         },
         {
             "name": "Haythem",
-            "position": "Notre Super Ingénieur",
-            "description": "Perfectionniste et original, startups et grands groupes comme Natixis et la Banque Central Européenne lui font confiance pour leurs sites et applications",
+            "position": "Pôle Développement",
+            "description": "Perfectionniste et original, il gère avec le développement d’application et également de site Web. Startups et grands groupes comme Natixis et la Banque Central Européenne lui ont déjà fait confiance pour leurs sites et applications.
+",
              "image": "assets/img/team/haythem.png",
             "linkedin-link": "https://www.linkedin.com/in/haythem-ouederni-16598977/"
         },
         {
           "name": "Aymeric",
-            "position": "à compléter",
-            "description": "à compléter",
+            "position": "Pôle Développement",
+            "description": "Travailleur et minutieux, Aymeric est axé codage et création de site web. C'est d'ailleurs lui qui est d'ailleurs à l'origine du site d'Aubaine !",
             "image": "assets/img/team/aymeric.png",
             "linkedin-link": ""
         },
          {
           "name": "Chabane",
-            "position": "à compléter",
+            "position": "Pôle Développement",
             "description": "à compléter",
             "image": "assets/img/team/chabane.jpg",
             "linkedin-link": ""
         },
         {
             "name": "Marie",
-            "position": "LA Communication Woman",
-            "description": "à compléter",
+            "position": "Pôle Communication",
+            "description": "Acharnée du travail et créative, Marie veille à créer plaquettes et visuels en tout genre, et gère également la création de newsletter. En équipe avec Fanny, elle participe également au Community Management !
+",
             "image": "assets/img/team/marie.png",
             "linkedin-link": ""
         },
         {
           "name": "Fanny",
-            "position": "à compléter",
-            "description": "à compléter",
+            "position": "Pôle Communication",
+            "description": "Créative et dynamique, le Community Management c'est son dada ! Présente à chaque événement, elle ne manque pas de vous partager chaque actualité sur les réseaux sociaux et à créer des visuels pour vous régaler ! Parallèlement, elle collabore aussi avec Marie sur les créations de plaquettes, cartes de visites ...etc. 
+",
             "image": "assets/img/team/fanny.png",
             "linkedin-link": ""
         },
