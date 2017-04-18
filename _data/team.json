@@ -35,7 +35,7 @@
             "description": "Acharnée du travail et créative, Marie veille à créer plaquettes et visuels en tout genre ainsi que les newsletters. En équipe avec Fanny, elle participe également au Community Management !
 ",
             "image": "assets/img/team/marie.png",
-            "linkedin-link": ""
+            "linkedin-link": "https://www.linkedin.com/in/marie-ferrer-45913463/"
         },
         {
           "name": "Fanny",
@@ -44,6 +44,14 @@
 ",
             "image": "assets/img/team/fanny.png",
             "linkedin-link": ""
+        },
+        {
+            "name": "Nicolas",
+            "position": "Commercial",
+            "description": "Vous avez sûrement déjà vu Nicolas ! Rigoureux et toujours à l'écoute de vos besions, il sera l'intermédiaire entre vous et l'agence.
+",
+             "image": "assets/img/team/nicolas.png",
+            "linkedin-link": "https://www.linkedin.com/in/nicolas-dalleau-7ba708b7/"
         },
         
     ]
