@@ -7,6 +7,14 @@
              "image": "assets/img/team/victoria.png",
             "linkedin-link": "https://www.linkedin.com/in/victoria-durand-cazelles-16abb060/"
         },
+         {
+            "name": "Nicolas",
+            "position": "Commercial",
+            "description": "Vous avez sûrement déjà vu Nicolas ! Rigoureux et toujours à l'écoute de vos besions, il sera l'intermédiaire idéal entre vous et Aubaine Studio.
+",
+             "image": "assets/img/team/nicolas.png",
+            "linkedin-link": "https://www.linkedin.com/in/nicolas-dalleau-7ba708b7/"
+        },
         {
             "name": "Haythem",
             "position": "Pôle Développement",
@@ -44,14 +52,6 @@
 ",
             "image": "assets/img/team/fanny.png",
             "linkedin-link": ""
-        },
-        {
-            "name": "Nicolas",
-            "position": "Commercial",
-            "description": "Vous avez sûrement déjà vu Nicolas ! Rigoureux et toujours à l'écoute de vos besions, il sera l'intermédiaire idéal entre vous et Aubaine Studio.
-",
-             "image": "assets/img/team/nicolas.png",
-            "linkedin-link": "https://www.linkedin.com/in/nicolas-dalleau-7ba708b7/"
         },
         
     ]
