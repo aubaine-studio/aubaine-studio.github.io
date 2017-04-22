@@ -4,27 +4,26 @@
             "id": "siteWebModal",
             "title": "Site web & référencement",
             "description": "- Audit du site existant <br/> - Identification du site approprié <br/> - Création et refonte du site <br/> - Analyse des performances <br/> - Référencement naturel <br/> - Création et animation de blog"
-        },
-        {
+        },{
             "id": "appMobileModal",
             "title": "Application mobile",
-            "description": "Vos clients utilisent de plus en plus leur mobile pour suivre une marque ou réaliser des achats. Aubaine Studio développe avec vous votre propre application mobile afin de rester au maximum en contact avec votre cible !"
+            "description": "- Identification des besoins <br/> - Choix des fonctionnalités <br/> - Création d'une ligne éditoriale <br/> - Création de l'application <br/> - Analyse des performances"
         }, {
             "id": "comManagementModal",
             "title": "Community Management",
-            "description": "Les réseaux sociaux permettent de communiquer et échanger directement avec votre cible. Aubaine Studio vous aide à créer et fidéliser une communauté qualifiée afin d’obtenir plus de visibilité et d’entretenir votre e-réputation !"
+            "description": "- Identification des besoins <br/> - Choix des réseaux sociaux <br/> - Création des lignes et plannings éditoriaux <br/> - Animation des communautés <br/> - Campagnes de recrutement <br/> - Reporting"
         }, {
             "id": "photographieModal",
             "title": "Photographie",
-            "description": "Avec notre photographe certifiée, réalisez des clichés uniques et de qualités ! Les photos de votre établissement, vos produits ou mises en scènes permettront de vous créer une réelle image de marque !"
+            "description": "- Présentation des besoins <br/> - Intervention d'une photographe <br/> - Retouches des photos"
         }, {
             "id": "newsletterModal",
             "title": "Newsletters & e-emailing",
-            "description": "Aubaine Studio vous permet de créer des campagnes d’e-mailings et des newsletters percutantes. La création de bases de données qualifiées vous aidera à mieux connaître votre cible pour répondre précisément à leurs besoins !"
+            "description": "- Choix de la ligne éditoriale <br/> - Identification de la fréquence d'envoi <br/> - Création de contenus <br/> - Création d'une base de données <br/> - Analyse des performances"
         }, {
             "id": "communuicationModal",
             "title": "Support de communication",
-            "description": "La présence via la communication traditionnelle reste un moyen efficace d’attirer des clients, prospects, partenaires … À l’aide de graphistes, Aubaine Studio vous aide à créer des supports innovants qui vous seront propres !"
+            "description": "- Identification des supports adaptés <br/> - Choix de la ligne éditoriale <br/> - Création de contenus <br/> - Création de supports"
         }
     ]
 }
