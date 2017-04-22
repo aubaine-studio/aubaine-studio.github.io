@@ -3,13 +3,13 @@
             "title": "Pôle commercial",
             "members": [{
                     "name": "Victoria",
-                    "description": "Gestion commerciale et partenariats c'est son quotidien",
+                    "description": "Gestion commerciale et partenariats sont son quotidien !",
                     "image": "assets/img/team/victoria.png",
                     "linkedin-link": "https://www.linkedin.com/in/victoria-durand-cazelles-16abb060/"
                 },
                 {
                     "name": "Nicolas",
-                    "description": "La relation client n'a plus de secret pour lui",
+                    "description": "La relation client n'a plus de secrets pour lui !",
                     "image": "assets/img/team/nicolas.png",
                     "linkedin-link": "https://www.linkedin.com/in/nicolas-dalleau-7ba708b7/"
                 }
@@ -19,19 +19,19 @@
             "title": "Pôle développement",
             "members": [{
                     "name": "Haythem",
-                    "description": "Développement de sites web et applications mobiles c'est son addiction",
+                    "description": "Développement de sites web et applications mobiles sont son addiction !",
                     "image": "assets/img/team/haythem.png",
                     "linkedin-link": "https://www.linkedin.com/in/haythem-ouederni-16598977/"
                 },
                 {
                     "name": "Aymeric",
-                    "description": "Exploite votre data pour booster votre business",
+                    "description": "Exploite votre data pour booster votre business !",
                     "image": "assets/img/team/aymeric.png",
                     "linkedin-link": "https://www.linkedin.com/in/aymeric-de-lanouvelle-398b88a4/"
                 },
                 {
                     "name": "Chabane",
-                    "description": "Besoin d'une architecture pour votre système ? C'est lui qu'il faut appeler",
+                    "description": "Besoin d'une architecture pour votre système ? C'est lui qu'il faut appeler !",
                     "image": "assets/img/team/chabane.png",
                     "linkedin-link": "https://www.linkedin.com/in/chabanerefes"
                 }
@@ -41,13 +41,13 @@
             "title": "Pôle communication",
             "members": [{
                     "name": "Marie",
-                    "description": "Communucation digitale et papier c'est son atout",
+                    "description": "Communucation digitale et créativité sont ses atouts !",
                     "image": "assets/img/team/marie.png",
                     "linkedin-link": "https://www.linkedin.com/in/marie-ferrer-45913463/"
                 },
                 {
                     "name": "Fanny",
-                    "description": "Le Community Management c'est son dada !",
+                    "description": "Le Community Management, c'est son dada !",
                     "image": "assets/img/team/fanny.png",
                     "linkedin-link": "https://www.linkedin.com/in/fanny-duhayon-55177310a/"
                 }
