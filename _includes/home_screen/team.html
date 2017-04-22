@@ -4,45 +4,62 @@
     <div class="col-md-12">
 
         <!-- Title -->
-        <h3 class="">
+        <h2 class="team-title">
             Notre Équipe
-        </h3>
+            </h3>
+
+            {%for pole in site.data.team.poles %}
+            <!-- pole container -->
+            <div class="pole-container">
+
+                <!-- Pole title -->
+                <div class="pole-title-container">
+                    <span><i class="fa fa-star"></i> {{ pole.title }} <i class="fa fa-star"></i></span>
+                </div>
+
+                <!-- The list of team members -->
+                <div class="row team-members-row">
 
 
-        <!-- The list of team members -->
-        <div class="row team-members-row">
+                    {% for member in pole.members %}
+                    <a href="{{member.linkedin-link}}" target="_blank">
+                        <div class="col-md-4 team-member-container">
+                            <!-- Image -->
+                            <div class="image-container">
+                                <img src="{{member.image}}" />
+                            </div>
 
-            {% for member in site.data.team.members %}
-            <a href="{{member.linkedin-link}}" target="_blank">
-                <div class="col-md-4 team-member-container">
-                    <!-- Image -->
-                    <div class="image-container">
-                        <img src="{{member.image}}" />
-                    </div>
+                            <!-- Test container -->
+                            <div class="member-text-container">
+                                <!-- name -->
+                                <div class="memeber-name">
+                                    <span>{{member.name}}</span>
+                                </div>
+                                <!-- position -->
+                                <div class="member-position">
+                                    <span>{{member.position}}</span>
+                                </div>
 
-                    <!-- Test container -->
-                    <div
-                        class="member-text-container">
-                        <!-- name -->
-                        <div class="memeber-name">
-                            <span>{{member.name}}</span>
+                                <!-- description -->
+                                <div class="member-description">
+                                    <span>{{member.description}}</span>
+                                </div>
+
+                            </div>
+
+                            <!-- icone linked in -->
+                            <div class="linked-in-icon">
+                                <i class="fa fa-linkedin"></i>
+                            </div>
+
                         </div>
-                        <!-- position -->
-                        <div class="member-position">
-                            <span>{{member.position}}</span>
-                        </div>
+                    </a>
+                    {% endfor %}
 
-                        <!-- description -->
-                        <div class="member-description">
-                            <span>{{member.description}}</span>
-                        </div>
-
-                    </div>
 
                 </div>
-            </a>
+            </div>
             {% endfor %}
-        </div>
 
     </div>
     <!-- col right end -->

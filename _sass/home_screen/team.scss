@@ -1,31 +1,49 @@
 .team-bloc-container {
-    .team-members-row {
-        .team-member-container {
-            margin-top: 30px;
-            text-align: center;
-            &:hover {
-                cursor: pointer;
+    .team-title {
+        padding-left: 0px;
+    }
+    .pole-container {
+        .pole-title-container {
+            margin-top: 25px;
+            span {
+                font-size: 30px;
+                font-weight: bold;
+                color: rgba(0, 0, 0, .8);
             }
-            .image-container {
-                padding-top: 30px;
-                img {
-                    max-width: 300px;
-                    max-height: 300px;
-                    border-radius: 50%;
+        }
+        .team-members-row {
+            .team-member-container {
+                margin-top: 30px;
+                text-align: center;
+                &:hover {
+                    cursor: pointer;
+                    .image-container {
+                        img {
+                            opacity: 0.7;
+                        }
+                    }
                 }
-            }
-            .member-text-container {
-                height: 130px;
-                .memeber-name {
-                    font-weight: 600;
-                    font-size: 20px;
+                .image-container {
+                    // padding-top: 30px;
+                    img {
+                        max-width: 300px;
+                        max-height: 300px;
+                        border-radius: 50%;
+                    }
                 }
-                .member-position {
-                    font-size: 18px;
-                }
-                .member-description {
-                    padding-top: 10px;
-                    color: black;
+                .member-text-container {
+                    height: 85px;
+                    .memeber-name {
+                        font-weight: 600;
+                        font-size: 20px;
+                    }
+                    .member-position {
+                        font-size: 18px;
+                    }
+                    .member-description {
+                        padding-top: 10px;
+                        color: black;
+                    }
                 }
             }
         }
