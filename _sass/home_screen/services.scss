@@ -1,22 +1,48 @@
 .section-services {
-    .services-img {
-        .website-icon {
-            font-size: 50px;
+    .services-hover {
+        &:hover {
+            cursor: pointer;
         }
-        .globe-icon {
-            font-size: 45px;
+        .services-img {
+            .website-icon {
+                font-size: 50px;
+            }
+            .globe-icon {
+                font-size: 45px;
+            }
+            .camera-icon {
+                font-size: 40px;
+            }
+            .envelope-icon {
+                font-size: 45px;
+            }
+            .bullhorn-icon {
+                font-size: 45px;
+            }
         }
+    }
+    .modal {
 
-        .camera-icon {
-            font-size: 40px;
-        }
+        .modal-header {
+            border-bottom: none; 
 
-        .envelope-icon {
-            font-size: 45px;
+            .modal-title {
+                color: black;
+                font-weight: 600;
+            }
         }
+        .modal-body {
+            color: rgba(0,0,0,.9);
+        }
+        .modal-footer {
 
-        .bullhorn-icon {
-            font-size: 45px;
+            border-top: none;
+            .btn-outline {
+                background: transparent;
+                border: 1px solid rgba(0, 0, 0, .8);
+                padding: 10px;
+                color: rgba(0, 0, 0, .8);
+            }
         }
     }
 }

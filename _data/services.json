@@ -1,0 +1,30 @@
+{
+    "modals": [
+        {
+            "id": "siteWebModal",
+            "title": "Site web & référencement",
+            "description": "Avoir un site internet devient indispensable et constitue une réelle vitrine pour votre entreprise. Aubaine Studio vous aide à créer un site qui vous ressemble et à bien le référencer sur les moteurs de recherche."
+        },
+        {
+            "id": "appMobileModal",
+            "title": "Application mobile",
+            "description": "Vos clients utilisent de plus en plus leur mobile pour suivre une marque ou réaliser des achats. Aubaine Studio développe avec vous votre propre application mobile afin de rester au maximum en contact avec votre cible !"
+        }, {
+            "id": "comManagementModal",
+            "title": "Community Management",
+            "description": "Les réseaux sociaux permettent de communiquer et échanger directement avec votre cible. Aubaine Studio vous aide à créer et fidéliser une communauté qualifiée afin d’obtenir plus de visibilité et d’entretenir votre e-réputation !"
+        }, {
+            "id": "photographieModal",
+            "title": "Photographie",
+            "description": "Avec notre photographe certifiée, réalisez des clichés uniques et de qualités ! Les photos de votre établissement, vos produits ou mises en scènes permettront de vous créer une réelle image de marque !"
+        }, {
+            "id": "newsletterModal",
+            "title": "Newsletters & e-emailing",
+            "description": "Aubaine Studio vous permet de créer des campagnes d’e-mailings et des newsletters percutantes. La création de bases de données qualifiées vous aidera à mieux connaître votre cible pour répondre précisément à leurs besoins !"
+        }, {
+            "id": "communuicationModal",
+            "title": "Support de communication",
+            "description": "La présence via la communication traditionnelle reste un moyen efficace d’attirer des clients, prospects, partenaires … À l’aide de graphistes, Aubaine Studio vous aide à créer des supports innovants qui vous seront propres !"
+        }
+    ]
+}
