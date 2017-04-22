@@ -1,4 +1,14 @@
 .section-contact {
+    @media screen and (max-width: 768px) {
+        .section-all-subtitle {
+            padding: 59px 15px 50px 15px;
+        }
+        .contact-information {
+            .divider-post-contact:nth-child(3) {
+                height: 26px;
+            }
+        }
+    }
     .contact-information,
     .contact-form-container {
         margin-left: 0 !important;
@@ -12,7 +22,7 @@
             }
             .contact-loader {
                 margin-top: 15px;
-                display:none;
+                display: none;
             }
         }
     }
