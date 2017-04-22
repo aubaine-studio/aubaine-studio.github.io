@@ -3,7 +3,7 @@
             "title": "Pôle commercial",
             "members": [{
                     "name": "Victoria",
-                    "description": "Gestion commerciale et partenariats sont son quotidien !",
+                    "description": "La gestion commerciale et les partenariats, c'est son quotidien !",
                     "image": "assets/img/team/victoria.png",
                     "linkedin-link": "https://www.linkedin.com/in/victoria-durand-cazelles-16abb060/"
                 },
@@ -19,7 +19,7 @@
             "title": "Pôle développement",
             "members": [{
                     "name": "Haythem",
-                    "description": "Développement de sites web et applications mobiles sont son addiction !",
+                    "description": "Addict des développement de sites web et applications mobiles !",
                     "image": "assets/img/team/haythem.png",
                     "linkedin-link": "https://www.linkedin.com/in/haythem-ouederni-16598977/"
                 },
