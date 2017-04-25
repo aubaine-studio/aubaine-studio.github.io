@@ -6,9 +6,18 @@
         .pole-title-container {
             margin-top: 25px;
             span {
-                font-size: 30px;
                 font-weight: bold;
                 color: rgba(0, 0, 0, .8);
+            }
+            @media (min-width: 450px) {
+                span {
+                    font-size: 30px;
+                }
+            }
+            @media (max-width: 450px) {
+                span {
+                    font-size: 25px;
+                }
             }
         }
         .team-members-row {

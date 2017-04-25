@@ -3,9 +3,8 @@ safe: true
 title: Aubaine Studio - Transformation digitale & Communication
 email: aubaine-studio@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  "Les meilleures technologies modernes au service de votre commerce. Boostez votre visibilité grâce à votre propre application mobile, 
-  site web mais également un accomagnement professionnel pour votre communication." 
-image_to_share: https://i-mitosis.github.io/assets/images/logo-mitosis-400x400.png
+  "Optez pour des technologies modernes et efficaces au service de votre commerce, à la façon d'Aubaine." 
+image_to_share: https://res.cloudinary.com/dytqwkbym/image/upload/v1493102768/aubaine-studio_lchhiw.png
 
 organization : Aubaine Studio
 
